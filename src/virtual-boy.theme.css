@@ -14,8 +14,8 @@
 @import url("https://riddim-glitch.github.io/Virtual-Boy/MessageBoxes.css");
 :root {
   /* Don't like the colors? Change these HSL variables! */
-  --VBaccent: 199, 100%, 50%;
-  --VBaccent-muted: 199, 52%, 58%;
+  --VBaccent: (0, 11%, 0%;
+  --VBaccent-muted: 199, 100%, 50%;
   --VBaccent-dimmest: 199, 100%, 21%;
   --text-shadow-size: 1px; /*Default: 1px*/
 }
